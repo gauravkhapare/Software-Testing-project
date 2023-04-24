@@ -8,7 +8,7 @@ This repository contains a list of all the projects completed during my manual t
 `RTM
 `Test Reports
 `Test Metrics
-`Project 1
+`
 `Test Plan
 `Test Cases
 `Bug Report
